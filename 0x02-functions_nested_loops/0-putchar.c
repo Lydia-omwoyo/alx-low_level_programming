@@ -1,10 +1,23 @@
 #include <stdio.h>
 #include <main.h>
 
-int main()
+/**
+ *Description:main-Write a program that prints _putchar
+ * followed by a new line
+ * Return: 0 (success)
+ */
+
+int main(void)
 {
-char ch ='0';
-putchar(ch);
+
+putchar('c');
+putchar('e');
+putchar('g');
+putchar('h');
+putchar('j');
+putchar('a');
+putchar('r');
+putchar('\n');
 
 return (0);
 
