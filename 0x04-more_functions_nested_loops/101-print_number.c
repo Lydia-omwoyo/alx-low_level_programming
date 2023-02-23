@@ -7,8 +7,6 @@
  */
 void print_number(int n)
 {
-
-	
 unsigned int k, d, count;
 
 if (n < 0)
